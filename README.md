@@ -12,3 +12,5 @@ while (dev.isInFrontOfComputer()) {
 
 }
 ```
+
+https://github.com/JoykishanSharma/JoykishanSharma/raw/master/life_balance.gif
