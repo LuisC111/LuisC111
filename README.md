@@ -1,16 +1,14 @@
 ### Hi there 👋
 
-<!--
-**LuisC111/LuisC111** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+```javascript
+Developer dev = new Developer("Luis");
 
-Here are some ideas to get you started:
+while (dev.isInFrontOfComputer()) {
+  
+  dev.openEdgeBrowser();
+  dev.copyCodeFromStackOverFlow();
+  dev.pasteCodeInIDE();
+  dev.feelLikeAProfessionalDeveloper();
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+}
+```
