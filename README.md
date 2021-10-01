@@ -25,7 +25,7 @@
 
 -  <img alt="GIF" src="https://github.com/LuisC111/LuisC111/blob/main/images/Developer.gif" width="25" /> &nbsp; I’m currently learning **Java & WebDev**. <img width="15%" align="right" alt="Github Image" src="https://github.com/LuisC111/LuisC111/blob/main/images/linux_rounded.gif?raw=true" /><br>
 - <img src="https://github.com/LuisC111/LuisC111/blob/main/images/hyperkitty.gif?raw=true" width="20" />&nbsp;&nbsp;&nbsp; I like exploring **GNU/Linux**. <br>
-- <img src="https://github.com/LuisC111/LuisC111/blob/main/images/message.gif?raw=true" width="25" />&nbsp;&nbsp; Ask me about **Pc building, Movies, or anything**. <br>
+- <img src="https://github.com/LuisC111/LuisC111/blob/main/images/message.gif?raw=true" width="25" />&nbsp;&nbsp; Ask me about **Pc building, Videogames, or anything**. <br>
 - <img src="https://github.com/LuisC111/LuisC111/blob/main/images/letterbox.gif?raw=true" width="25" /> &nbsp; Find me on Instagram: **[Luis1_mg](https://www.instagram.com/luis1_mg/)**<br>
 - &nbsp;&nbsp;<img src="https://github.com/LuisC111/LuisC111/blob/main/images/lightning.gif?raw=true" width="12" />&nbsp;&nbsp;&nbsp;&nbsp;Fun fact: Banging your head against a wall for one hour burns **150 calories**.<br>
 
