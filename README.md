@@ -40,7 +40,12 @@
 
 <hr></hr>
 
-<img src="https://github.com/LuisC111/LuisC111/blob/main/images/dino_rounded.gif?raw=true" href="https://github.com/LuisC111" />
+<hr>
+
+<p align="center">
+  <img src="https://github.com/ishikkkkaaaa/ishikkkkaaaa/raw/output/github-contribution-grid-snake.svg" alt="snake"></center>
+</p>
+<hr></hr>
 <img src="https://github.com/LuisC111/LuisC111/blob/main/images/this_page_is.gif?raw=true"  width="400"/>
 
 </div>
