@@ -5,7 +5,7 @@
 <img src="https://github.com/LuisC111/LuisC111/blob/main/images/32.gif?raw=true" href="https://github.com/LuisC111" alt="Hello Coders" width="625"/> <br>
 <img src="https://github.com/LuisC111/LuisC111/blob/main/images/dev-working_rounded.gif?raw=true" href="https://github.com/LuisC111" alt="CoDiNg RocKs"  width="550"/><br> 
   
-#### SENA student during the day
+#### I work at the University La Gran Colombia during the day
 #### & Coder at night 😼.
 ### Vibing to : 🎧  <!--img src="https://media.giphy.com/media/kC8QA2OYWOADK0e1Uk/giphy.gif" width="30" style="padding-top: 10px;" -->
 
