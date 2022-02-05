@@ -17,7 +17,7 @@
 
 ![](https://komarev.com/ghpvc/?username=LuisC111&style=flat&color=orange&label=VISTAS+DE+PERFIL)
 [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FLuisC111&count_bg=%2379C83D&title_bg=%23555555&icon=mediafire.svg&icon_color=%23E7E7E7&title=HITS&edge_flat=false)](https://hits.seeyoufarm.com)
-[![instagramww badge](https://img.shields.io/badge/LuisC111-grey?style=flat&logo=instagram)](https://www.instagram.com/luis1_mg/) <br>
+[![instagramww badge](https://img.shields.io/badge/luis1_mg-grey?style=flat&logo=instagram)](https://www.instagram.com/luis1_mg/) <br>
 
 </div>
 
